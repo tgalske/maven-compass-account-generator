@@ -1,4 +1,4 @@
-package stream.mrtg.maven.compass.account.generator;
+
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
